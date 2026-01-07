@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+.DS_Store
+.AppleDouble
+.LSOverride
+*.log
+.cache
+.parcel-cache
+.eslintcache
+
+# IDE
+vscode/
+.vscode-test/
+.history/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Testing
+.nyc_output/
+.coverage
+coverage/
+thumb*
+
+# Production
+.next
+out/
